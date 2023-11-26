@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b5393c-28aa-4761-9cdd-4a85510bccf4" name="Changes" comment="" />
+    <list default="true" id="43f9d928-8b47-46a4-8bac-82c179872447" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bai10.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai6.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai7.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai8.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai9.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,34 +31,37 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="2YbbxQZLgNmOeEwiAmNrlDzu3dy" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YiPkgQ4NRTExYqdBfgf1hXmJ82" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/Dart-SDK/Quay tay",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dart-SDK/Quay tay&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="21b5393c-28aa-4761-9cdd-4a85510bccf4" name="Changes" comment="" />
-      <created>1700797472071</created>
+      <changelist id="43f9d928-8b47-46a4-8bac-82c179872447" name="Changes" comment="" />
+      <created>1701005572131</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700797472071</updated>
+      <updated>1701005572131</updated>
     </task>
     <servers />
   </component>
